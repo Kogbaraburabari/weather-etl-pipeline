@@ -1,6 +1,6 @@
 city,country,temperature_c,feels_like_c,humidity_pct,weather_condition,weather_description,wind_speed_mps,recorded_at_utc
-Port Harcourt,NG,25.63,26.62,91,Clear,clear sky,1.94,2026-11-16 00:25:15+00:00
-Nairobi,KE,16.62,16.79,94,Clouds,broken clouds,2.57,2026-11-16 00:35:15+00:00
-Cairo,EG,18.42,18.62,88,Clear,clear sky,3.6,2026-11-16 00:24:22+00:00
-London,GB,7.5,4.63,92,Clouds,broken clouds,4.63,2026-11-16 00:27:53+00:00
-New York,US,7.62,3.7,61,Clouds,scattered clouds,7.6,2026-11-16 00:33:07+00:00
+Port Harcourt,NG,32.93,37.65,55,Clouds,broken clouds,1.04,2026-11-16 10:28:13+00:00
+Nairobi,KE,19.93,19.88,73,Clouds,broken clouds,5.66,2026-11-16 10:28:13+00:00
+Cairo,EG,24.42,24.22,50,Clear,clear sky,4.63,2026-11-16 10:27:23+00:00
+London,GB,4.91,4.06,86,Clear,clear sky,1.34,2026-11-16 10:25:51+00:00
+New York,US,5.3,3.66,75,Clear,clear sky,2.06,2026-11-16 10:20:00+00:00
